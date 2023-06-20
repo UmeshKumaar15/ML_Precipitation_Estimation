@@ -1,0 +1,5 @@
+  global maxtemp, mintemp, feelslike
+  global totalsnow, sunhour, cloudcover, winddir, windspeed
+  global uvindexmax, uvindexmin, heatindex
+  global moonillu, dewpoint, windchill, windgust
+  global humidity, pressure, temp, visibility
